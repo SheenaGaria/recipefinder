@@ -1,4 +1,4 @@
-# Veggie Bibimbap Rice Bowl
+# Veg Bibimbap Rice Bowl
 Difficulty: Easy!
 
 ![Rice Bowl](https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_1100,q_50,w_2600/hellofresh_s3/image/brown-rice-bibimbap-c99986ac.jpg)
